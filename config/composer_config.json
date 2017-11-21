@@ -1,0 +1,6 @@
+{
+    "config": {
+        "apcu-autoloader": true,
+        "optimize-autoloader": true
+    }
+}
